@@ -1,0 +1,15 @@
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\bin\Debug\net6.0\String Conversion.exe
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\bin\Debug\net6.0\String Conversion.deps.json
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\bin\Debug\net6.0\String Conversion.runtimeconfig.json
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\bin\Debug\net6.0\String Conversion.dll
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\bin\Debug\net6.0\String Conversion.pdb
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.AssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.dll
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\refint\String Conversion.dll
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.pdb
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\String Conversion.genruntimeconfig.cache
+C:\Users\David\OneDrive\Desktop\Repos\String Conversion\String Conversion\String Conversion\obj\Debug\net6.0\ref\String Conversion.dll
